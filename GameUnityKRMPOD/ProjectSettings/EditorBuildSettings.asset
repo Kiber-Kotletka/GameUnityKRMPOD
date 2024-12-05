@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: db1b3bd24be20d542b46b83cd6edb241
+  - enabled: 1
+    path: Assets/Scenes/lvl1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Kvartira.unity
+    guid: 2c06997fb2b182f44a142c6b42c6ea6a
+  - enabled: 0
+    path: Assets/Scenes/lvl1.1.unity
+    guid: e970d6acf58d10a448b960eca02a5f8e
+  - enabled: 1
+    path: Assets/Scenes/lvl1.2.unity
+    guid: 7a931faa03cf79a429208adf3e90fe81
+  m_configObjects: {}
